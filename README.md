@@ -19,3 +19,4 @@ My VSCode
   - Auto Save
   - Format on file save
   - Opt out the data collection
+  - Change default terminal from PowerShell to be Command Prompt
